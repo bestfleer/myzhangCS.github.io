@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: Mingyang Zhang's academic page
+title: Mingyang Zhang
 excerpt: "About me"
 author_profile: true
 redirect_from: 
