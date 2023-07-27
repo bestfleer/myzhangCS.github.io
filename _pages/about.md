@@ -19,18 +19,26 @@ Hi, I'm a postdoc at CAD&CG Lab from [Zhejiang University](https://www.zju.edu.c
 
 **Publication**
 
-*[Pruning Meets Low-Rank Parameter-Efficient Fine-Tuning](https://arxiv.org/abs/2305.18403) 
-Mingyang Zhang, Hao Chen, Chunhua Shen, Zhen Yang, Linlin Ou, Xinyi Yu, Bohan Zhuang
-preprint
+* [Pruning Meets Low-Rank Parameter-Efficient Fine-Tuning](https://arxiv.org/abs/2305.18403)
+  
+  Mingyang Zhang, Hao Chen, Chunhua Shen, Zhen Yang, Linlin Ou, Xinyi Yu, Bohan Zhuang
+  
+  preprint
 
-*[ShiftNAS: Improving One-shot NAS via Probability Shift](https://arxiv.org/abs/2307.08300) 
-Mingyang Zhang, Xinyi Yu, Haodong Zhao, Linlin Ou
-ICCV 2023
+* [ShiftNAS: Improving One-shot NAS via Probability Shift](https://arxiv.org/abs/2307.08300)
+  
+  Mingyang Zhang, Xinyi Yu, Haodong Zhao, Linlin Ou
+  
+  ICCV 2023
 
-*[RepNAS: Searching for efficient re-parameterizing blocks](https://arxiv.org/abs/2109.03508)
-Mingyang Zhang, Xinyi Yu, Jingtao Rong, Linlin Ou
-ICME 2023
+* [RepNAS: Searching for efficient re-parameterizing blocks](https://arxiv.org/abs/2109.03508)
+  
+  Mingyang Zhang, Xinyi Yu, Jingtao Rong, Linlin Ou
 
-*[Graph pruning for model compression](https://arxiv.org/abs/1911.09817)
-Mingyang Zhang, Xinyi Yu, Jingtao Rong, Linlin Ou
-Applied Intelligence 2022
+  ICME 2023
+
+* [Graph pruning for model compression](https://arxiv.org/abs/1911.09817)
+
+  Mingyang Zhang, Xinyi Yu, Jingtao Rong, Linlin Ou
+
+  Applied Intelligence 2022
